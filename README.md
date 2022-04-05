@@ -12,4 +12,4 @@
     * Repository
     * RESTful API (Controller)
     * DTO
-    * Gmail uti
+    * Gmail util
