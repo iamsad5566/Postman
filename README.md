@@ -1,10 +1,10 @@
 ## Postman
 
-# Front end
+# Front end:
 
-Notice
-Register
-Postman interface
+    * Notice
+    * Register
+    * Postman interface
 
 # Back end:
 
